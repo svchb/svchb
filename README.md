@@ -1,4 +1,5 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/svchb/badges/micro)
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@svchb)](https://joss.theoj.org/papers/reviewed_by/@svchb)
 
 <!--
 **svchb/svchb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
