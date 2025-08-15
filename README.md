@@ -1,6 +1,8 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/svchb/badges/micro)
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@svchb)](https://joss.theoj.org/papers/reviewed_by/@svchb)
 
+[![Sven's GitHub stats](https://github-readme-stats.vercel.app/api?username=svchb)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **svchb/svchb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
